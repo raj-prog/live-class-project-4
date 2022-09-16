@@ -2,7 +2,7 @@
 
 ## Project 4
 
-## Topics covered in this project:
+## Topics learned in this project:
 
 - CSS variables
 - Flexbox
