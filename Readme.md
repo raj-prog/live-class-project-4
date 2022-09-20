@@ -7,7 +7,7 @@
 - CSS variables
 - Flexbox
 
-## Time required to build: 2.5h
+## Time required to complete: 2.5h
 
 ### Project Screenshot
 
