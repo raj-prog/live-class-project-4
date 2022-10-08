@@ -1,12 +1,16 @@
-@media screen and (max-width: 40rem) {
-  .list-item {
-    display: none;
-  }
-
+/* Laptop */
+@media screen and (max-width: 64rem) {
   .banner-container {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     margin-right: 7rem;
+  }
+}
+
+/* Tablet */
+@media screen and (max-width: 48rem) {
+  .list-item {
+    display: none;
   }
 }
