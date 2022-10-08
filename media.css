@@ -1,0 +1,12 @@
+@media screen and (max-width: 40rem) {
+  .list-item {
+    display: none;
+  }
+
+  .banner-container {
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 7rem;
+  }
+}
